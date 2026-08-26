@@ -1,6 +1,6 @@
 # Daily Character Rewards
 
-A Qbox / ox_inventory daily reward menu with separate male and female collections. Each eligible character can claim one item from their collection once every 24 hours. Claims are persisted by citizen ID in MySQL.
+A Qbox / ox_inventory daily reward menu with separate male and female collections. Each eligible character can claim items from their collection once every 24 hours. Claims are persisted by citizen ID in MySQL.
 
 ## Configuration
 
